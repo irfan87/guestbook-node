@@ -1,5 +1,4 @@
-logs
-*.logs
-npm-debug.log*
 
-node-modules
+*.log
+
+node-modules/
