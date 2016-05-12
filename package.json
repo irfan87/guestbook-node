@@ -1,0 +1,19 @@
+{
+  "name": "express-guestbook",
+  "version": "1.0.0",
+  "description": "A simple guest book created by express",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ahmad Irfan <irfanshukri203@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bootstrap": "^3.3.6",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
